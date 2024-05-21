@@ -252,8 +252,15 @@ h6 {
   margin-bottom: 8px;
 }
 
+.sidebar > .image {
+  overflow: hidden;
+  height: 300px;
+}
+
 .sidebar .my_photo {
   width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .sidebar .contacts_container {
