@@ -1,0 +1,22 @@
+            <!-- <p class="description">
+                                              I am a second-year Computer Science student in WSZIB uniwersity in
+                                              Krakow. Thanks to that I know basics of C/C++, algorythms. I have
+                                              been self-teaching web developing for 3 years and for 10 months have
+                                              been attending a Full-Stack developer cource. So I have solid
+                                              knowledge in developing front-end and back-end with JavaScript.
+                                              Thanks to that I have three non-commercial team projects where I
+                                              served as a TeamLeader. My goal were to create good web application
+                                              in short term and help my team to be one mechanism that brings
+                                              success. These three projects are websites with different topics and
+                                              different user experience.
+                                                                            
+                                                                                                        
+                                                        As a second-year Computer Science student at WSZIB University in
+                                                        Krakow, I have a strong foundation in C/C++, algorithms, and web
+                                                        development. With three years of self-study and ten months of a
+                                                        Full-Stack developer course, I have developed [number] web
+                                                        applications using JavaScript, serving as Team Leader for three
+                                                        non-commercial projects, and have numerous my own projects. My focus is on delivering high-quality web
+                                                        solutions within tight deadlines and fostering a collaborative team
+                                                        environment.
+                                                        -->
